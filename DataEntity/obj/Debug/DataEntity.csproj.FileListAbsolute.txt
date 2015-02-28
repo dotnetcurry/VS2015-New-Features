@@ -1,0 +1,5 @@
+C:\Mahesh\VS2015_App\DataEntity\bin\Debug\DataEntity.dll
+C:\Mahesh\VS2015_App\DataEntity\bin\Debug\DataEntity.pdb
+C:\Mahesh\VS2015_App\DataEntity\obj\Debug\DataEntity.csprojResolveAssemblyReference.cache
+C:\Mahesh\VS2015_App\DataEntity\obj\Debug\DataEntity.dll
+C:\Mahesh\VS2015_App\DataEntity\obj\Debug\DataEntity.pdb

@@ -1,0 +1,10 @@
+C:\Mahesh\VS2015_App\DataAccessLib\bin\Debug\DataAccessLib.dll.config
+C:\Mahesh\VS2015_App\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\Mahesh\VS2015_App\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\Mahesh\VS2015_App\DataAccessLib\bin\Debug\EntityFramework.dll
+C:\Mahesh\VS2015_App\DataAccessLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Mahesh\VS2015_App\DataAccessLib\bin\Debug\EntityFramework.xml
+C:\Mahesh\VS2015_App\DataAccessLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Mahesh\VS2015_App\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\Mahesh\VS2015_App\DataAccessLib\obj\Debug\DataAccessLib.pdb
+C:\Mahesh\VS2015_App\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache

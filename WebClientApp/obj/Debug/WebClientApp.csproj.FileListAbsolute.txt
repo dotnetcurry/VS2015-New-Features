@@ -1,0 +1,12 @@
+C:\Mahesh\VS2015_App\WebClientApp\bin\WebClientApp.dll.config
+C:\Mahesh\VS2015_App\WebClientApp\bin\WebClientApp.dll
+C:\Mahesh\VS2015_App\WebClientApp\bin\WebClientApp.pdb
+C:\Mahesh\VS2015_App\WebClientApp\bin\DataAccessLib.dll
+C:\Mahesh\VS2015_App\WebClientApp\bin\EntityFramework.dll
+C:\Mahesh\VS2015_App\WebClientApp\bin\EntityFramework.SqlServer.dll
+C:\Mahesh\VS2015_App\WebClientApp\bin\DataAccessLib.pdb
+C:\Mahesh\VS2015_App\WebClientApp\bin\EntityFramework.xml
+C:\Mahesh\VS2015_App\WebClientApp\bin\EntityFramework.SqlServer.xml
+C:\Mahesh\VS2015_App\WebClientApp\obj\Debug\WebClientApp.csprojResolveAssemblyReference.cache
+C:\Mahesh\VS2015_App\WebClientApp\obj\Debug\WebClientApp.dll
+C:\Mahesh\VS2015_App\WebClientApp\obj\Debug\WebClientApp.pdb
